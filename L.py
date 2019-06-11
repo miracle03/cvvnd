@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# by 默不知然
+
 
 import urllib.request
 from urllib import parse
